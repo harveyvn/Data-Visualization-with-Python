@@ -1,5 +1,7 @@
-# The Dataset: Immigration to Canada from 1980 to 2013
+# IBM: Data Visualization with Python
 
-In this notebook, we will explore the Immigration Dataset in Canada from 1980 to 2013 by using pandas and matplotlib along with some preprocessing utilities function from [Data-Science-Toolkit Repo](https://github.com/harveyvn/Data-Science-Toolkit) for data wrangling, analysis, and visualization.
+Sample data visualization projects using pandas, matplotlib, seaborn, and Folium.
 
-Gist Preview: [Link](https://gist.github.com/harveyvn/8026b34dde9d5b2cf386dba0f3b81b75)
+Objective: enhance my skills in advanced data visualization.
+
+Visualization types included: area plots, histograms, bar charts, pie charts, box plots, waffle charts, and choropleth maps.
